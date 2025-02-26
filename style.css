@@ -1034,6 +1034,7 @@ td:hover {
     /* Classes */
     .classes-grid {
         grid-template-columns: 1fr;
+        margin-bottom: 20px;
     }
 
     .class-grid-item {
